@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo-icon{
+    background-color: blac;
+    height: 50px;
+}
+.header{
+    background-color: rgb(31, 31, 31);
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li {
+    list-style-type: none;
+    color: white;
+    
+    
+}
+.menu{
+    display: flex;
+    
+}
+.menu-item{
+    margin-right: 10px;
+    padding-left: 10px;
+}
